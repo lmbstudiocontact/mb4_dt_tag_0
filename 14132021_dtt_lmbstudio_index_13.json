@@ -1,37 +1,405 @@
 [
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674914531_55a6cdfd8a_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719897.bin",
-    "id_bin": "Detective Conan_L10_530719897",
+    "link_thumb": "https://live.staticflickr.com/65535/51787180718_6c2a25e332_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106537.bin",
+    "id_bin": "DetectiveConan_M55_1-1997106537",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675786235_7917827398_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719897_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787550069_65a416eba4_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106537_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L10_530719897_English"
+        "id_bin_language": "DetectiveConan_M55_1-1997106537_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675584934_44835fa636_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719897_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786928046_994a50c989_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106537_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L10_530719897_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_1-1997106537_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675585144_0e2d03a349_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719897_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787801000_801041afed_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106537_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L10_530719897_Russian"
+        "id_bin_language": "DetectiveConan_M55_1-1997106537_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675585324_732b0dcfda_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719897_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786927986_82cc653b27_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106537_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L10_530719897_Spanish"
+        "id_bin_language": "DetectiveConan_M55_1-1997106537_Spanish"
+      }
+    ],
+    "array_tags": [
+      "lmbstudio"
+    ],
+    "list_album": [
+      {
+        "id_album": "-1285383392",
+        "link_thumb": "https://live.staticflickr.com/65535/51787180718_6c2a25e332_o.gif",
+        "title": "Detective Conan_L1"
+      }
+    ]
+  },
+  {
+    "author": "LMB Studio",
+    "link_thumb": "https://live.staticflickr.com/65535/51787549984_27162c78d4_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106538.bin",
+    "id_bin": "DetectiveConan_M55_1-1997106538",
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800940_7252181e10_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106538_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DetectiveConan_M55_1-1997106538_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787549939_948b9cf231_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106538_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DetectiveConan_M55_1-1997106538_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800905_2d86e37e15_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106538_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DetectiveConan_M55_1-1997106538_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787180438_a7cec53592_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106538_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DetectiveConan_M55_1-1997106538_Spanish"
+      }
+    ],
+    "array_tags": [
+      "lmbstudio"
+    ],
+    "list_album": [
+      {
+        "id_album": "-1285383392",
+        "link_thumb": "https://live.staticflickr.com/65535/51787549984_27162c78d4_o.gif",
+        "title": "Detective Conan_L1"
+      }
+    ]
+  },
+  {
+    "author": "LMB Studio",
+    "link_thumb": "https://live.staticflickr.com/65535/51787549874_91e3e5deb9_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106539.bin",
+    "id_bin": "DetectiveConan_M55_1-1997106539",
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800815_be827694ae_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106539_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DetectiveConan_M55_1-1997106539_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786110317_c4db513dea_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106539_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DetectiveConan_M55_1-1997106539_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800775_0504f10a2f_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106539_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DetectiveConan_M55_1-1997106539_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786110262_35936c6c93_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106539_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DetectiveConan_M55_1-1997106539_Spanish"
+      }
+    ],
+    "array_tags": [
+      "lmbstudio"
+    ],
+    "list_album": [
+      {
+        "id_album": "-1285383392",
+        "link_thumb": "https://live.staticflickr.com/65535/51787549874_91e3e5deb9_o.gif",
+        "title": "Detective Conan_L1"
+      }
+    ]
+  },
+  {
+    "author": "LMB Studio",
+    "link_thumb": "https://live.staticflickr.com/65535/51786927696_b2a7bca011_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106561.bin",
+    "id_bin": "DetectiveConan_M55_1-1997106561",
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787180203_08c5a933b7_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106561_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DetectiveConan_M55_1-1997106561_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800640_0ca36748cb_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106561_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DetectiveConan_M55_1-1997106561_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800605_b42fbfa9c1_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106561_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DetectiveConan_M55_1-1997106561_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786927531_6aeed0251f_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106561_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DetectiveConan_M55_1-1997106561_Spanish"
+      }
+    ],
+    "array_tags": [
+      "lmbstudio"
+    ],
+    "list_album": [
+      {
+        "id_album": "-1285383392",
+        "link_thumb": "https://live.staticflickr.com/65535/51786927696_b2a7bca011_o.gif",
+        "title": "Detective Conan_L1"
+      }
+    ]
+  },
+  {
+    "author": "LMB Studio",
+    "link_thumb": "https://live.staticflickr.com/65535/51787180013_3067bfc554_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106562.bin",
+    "id_bin": "DetectiveConan_M55_1-1997106562",
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786927441_98626fd2e2_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106562_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DetectiveConan_M55_1-1997106562_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800490_8097b9e354_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106562_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DetectiveConan_M55_1-1997106562_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786927411_58cce7b937_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106562_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DetectiveConan_M55_1-1997106562_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787549474_e0a55af1cd_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106562_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DetectiveConan_M55_1-1997106562_Spanish"
+      }
+    ],
+    "array_tags": [
+      "lmbstudio"
+    ],
+    "list_album": [
+      {
+        "id_album": "-1285383392",
+        "link_thumb": "https://live.staticflickr.com/65535/51787180013_3067bfc554_o.gif",
+        "title": "Detective Conan_L1"
+      }
+    ]
+  },
+  {
+    "author": "LMB Studio",
+    "link_thumb": "https://live.staticflickr.com/65535/51787549439_97532e49ff_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106563.bin",
+    "id_bin": "DetectiveConan_M55_1-1997106563",
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800395_9dd4363c5a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106563_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DetectiveConan_M55_1-1997106563_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787179808_58370a4739_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106563_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DetectiveConan_M55_1-1997106563_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787179783_870cb3da05_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106563_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DetectiveConan_M55_1-1997106563_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786927291_544dd46c9a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106563_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DetectiveConan_M55_1-1997106563_Spanish"
+      }
+    ],
+    "array_tags": [
+      "lmbstudio"
+    ],
+    "list_album": [
+      {
+        "id_album": "-1285383392",
+        "link_thumb": "https://live.staticflickr.com/65535/51787549439_97532e49ff_o.gif",
+        "title": "Detective Conan_L1"
+      }
+    ]
+  },
+  {
+    "author": "LMB Studio",
+    "link_thumb": "https://live.staticflickr.com/65535/51787179718_6277349807_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106564.bin",
+    "id_bin": "DetectiveConan_M55_1-1997106564",
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787179678_cf5f0918a0_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106564_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DetectiveConan_M55_1-1997106564_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787549259_3d7e3e1f9d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106564_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DetectiveConan_M55_1-1997106564_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787179648_e99a651b3c_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106564_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DetectiveConan_M55_1-1997106564_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787549164_495983c161_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106564_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DetectiveConan_M55_1-1997106564_Spanish"
+      }
+    ],
+    "array_tags": [
+      "lmbstudio"
+    ],
+    "list_album": [
+      {
+        "id_album": "-1285383392",
+        "link_thumb": "https://live.staticflickr.com/65535/51787179718_6277349807_o.gif",
+        "title": "Detective Conan_L1"
+      }
+    ]
+  },
+  {
+    "author": "LMB Studio",
+    "link_thumb": "https://live.staticflickr.com/65535/51787800215_16b19fbf13_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106565.bin",
+    "id_bin": "DetectiveConan_M55_1-1997106565",
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787179553_a157b4884f_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106565_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DetectiveConan_M55_1-1997106565_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800155_667b73f0aa_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106565_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DetectiveConan_M55_1-1997106565_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786109597_99aa78fd0d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106565_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DetectiveConan_M55_1-1997106565_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787179453_3d9d3a8d77_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_1-1997106565_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DetectiveConan_M55_1-1997106565_Spanish"
+      }
+    ],
+    "array_tags": [
+      "lmbstudio"
+    ],
+    "list_album": [
+      {
+        "id_album": "-1285383392",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800215_16b19fbf13_o.gif",
+        "title": "Detective Conan_L1"
+      }
+    ]
+  },
+  {
+    "author": "LMB Studio",
+    "link_thumb": "https://live.staticflickr.com/65535/51787799180_81d09ba7e4_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_39/raw/main/DetectiveConan_M55_10530719807.bin",
+    "id_bin": "DetectiveConan_M55_10530719807",
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787799160_227285fcfb_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_39/raw/main/DetectiveConan_M55_10530719807_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DetectiveConan_M55_10530719807_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786926016_0deb510f16_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_39/raw/main/DetectiveConan_M55_10530719807_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DetectiveConan_M55_10530719807_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787548064_cf3ee0c4a9_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_39/raw/main/DetectiveConan_M55_10530719807_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DetectiveConan_M55_10530719807_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787178423_762cec5f50_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_39/raw/main/DetectiveConan_M55_10530719807_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DetectiveConan_M55_10530719807_Spanish"
       }
     ],
     "array_tags": [
@@ -40,44 +408,44 @@
     "list_album": [
       {
         "id_album": "-1192179440",
-        "link_thumb": "https://live.staticflickr.com/65535/51674914531_55a6cdfd8a_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787799180_81d09ba7e4_o.gif",
         "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675787010_ae34059529_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719898.bin",
-    "id_bin": "Detective Conan_L10_530719898",
+    "link_thumb": "https://live.staticflickr.com/65535/51787799025_4d57b4c116_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_39/raw/main/DetectiveConan_M55_10530719892.bin",
+    "id_bin": "DetectiveConan_M55_10530719892",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675153448_8d108457f0_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719898_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786108577_56fc5d890f_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_39/raw/main/DetectiveConan_M55_10530719892_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L10_530719898_English"
+        "id_bin_language": "DetectiveConan_M55_10530719892_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674111357_1d91b3a4c0_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719898_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786108552_73984e9540_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_39/raw/main/DetectiveConan_M55_10530719892_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L10_530719898_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719892_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675787600_8111d74ee7_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719898_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787547974_3d9ea12485_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_39/raw/main/DetectiveConan_M55_10530719892_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L10_530719898_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719892_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675586349_2c837e4366_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719898_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786925871_d0d8fbe0fd_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719892_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L10_530719898_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719892_Spanish"
       }
     ],
     "array_tags": [
@@ -86,44 +454,44 @@
     "list_album": [
       {
         "id_album": "-1192179440",
-        "link_thumb": "https://live.staticflickr.com/65535/51675787010_ae34059529_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787799025_4d57b4c116_o.gif",
         "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675788025_bf58a7a169_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719899.bin",
-    "id_bin": "Detective Conan_L10_530719899",
+    "link_thumb": "https://live.staticflickr.com/65535/51786108457_aa0df16ae7_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719893.bin",
+    "id_bin": "DetectiveConan_M55_10530719893",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675586854_7d16ebb4fc_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719899_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798875_a68a19a7b9_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719893_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L10_530719899_English"
+        "id_bin_language": "DetectiveConan_M55_10530719893_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675154843_e0721e4020_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719899_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787547884_38bf0c7035_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719893_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L10_530719899_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719893_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675788870_a06600b681_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719899_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798790_e8b42aa825_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719893_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L10_530719899_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719893_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675155428_dcf86d4baa_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719899_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786108337_283ef7e41a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719893_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L10_530719899_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719893_Spanish"
       }
     ],
     "array_tags": [
@@ -132,44 +500,44 @@
     "list_album": [
       {
         "id_album": "-1192179440",
-        "link_thumb": "https://live.staticflickr.com/65535/51675788025_bf58a7a169_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786108457_aa0df16ae7_o.gif",
         "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674917826_62ed729fdb_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719900.bin",
-    "id_bin": "Detective Conan_L10_530719900",
+    "link_thumb": "https://live.staticflickr.com/65535/51787178208_2aca2ccfd2_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719894.bin",
+    "id_bin": "DetectiveConan_M55_10530719894",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675588214_c9b97e4510_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719900_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787547774_074bbc56ef_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719894_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L10_530719900_English"
+        "id_bin_language": "DetectiveConan_M55_10530719894_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674113602_a84ee12641_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719900_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787178168_e3faf4a59b_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719894_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L10_530719900_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719894_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674918446_4a695d293c_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719900_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787547719_f50454164d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719894_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L10_530719900_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719894_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675588814_ed1ddbf747_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719900_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786108227_9183131e1e_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719894_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L10_530719900_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719894_Spanish"
       }
     ],
     "array_tags": [
@@ -178,44 +546,44 @@
     "list_album": [
       {
         "id_album": "-1192179440",
-        "link_thumb": "https://live.staticflickr.com/65535/51674917826_62ed729fdb_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787178208_2aca2ccfd2_o.gif",
         "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674114392_9e210d3f6a_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719901.bin",
-    "id_bin": "Detective Conan_L10_530719901",
+    "link_thumb": "https://live.staticflickr.com/65535/51787547649_d604823cc6_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719895.bin",
+    "id_bin": "DetectiveConan_M55_10530719895",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675589319_cfcbff3796_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719901_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787178083_1e1dda7af7_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719895_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L10_530719901_English"
+        "id_bin_language": "DetectiveConan_M55_10530719895_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675589534_b10427df51_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719901_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798590_a51c5f81dc_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719895_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L10_530719901_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719895_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675157278_9eb836d7f7_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719901_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798565_dc8551d0fd_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719895_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L10_530719901_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719895_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674919731_2d61631a7e_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719901_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798535_1de4db9e2c_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719895_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L10_530719901_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719895_Spanish"
       }
     ],
     "array_tags": [
@@ -224,44 +592,44 @@
     "list_album": [
       {
         "id_album": "-1192179440",
-        "link_thumb": "https://live.staticflickr.com/65535/51674114392_9e210d3f6a_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787547649_d604823cc6_o.gif",
         "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674115442_c87fe1ef22_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719986.bin",
-    "id_bin": "Detective Conan_L10_530719986",
+    "link_thumb": "https://live.staticflickr.com/65535/51786925521_b332c87705_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719896.bin",
+    "id_bin": "DetectiveConan_M55_10530719896",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675590489_1d59b4ccf7_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719986_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798490_33f2b3bb26_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719896_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L10_530719986_English"
+        "id_bin_language": "DetectiveConan_M55_10530719896_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674920356_f837830258_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719986_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798460_ff40e9959a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719896_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L10_530719986_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719896_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675792105_74027b24d9_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719986_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787547469_0c96934e2d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719896_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L10_530719986_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719896_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674116237_0ec2969481_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719986_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786108017_f5e090ab86_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719896_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L10_530719986_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719896_Spanish"
       }
     ],
     "array_tags": [
@@ -270,44 +638,44 @@
     "list_album": [
       {
         "id_album": "-1192179440",
-        "link_thumb": "https://live.staticflickr.com/65535/51674115442_c87fe1ef22_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786925521_b332c87705_o.gif",
         "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675158853_a9bc89cc0f_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719987.bin",
-    "id_bin": "Detective Conan_L10_530719987",
+    "link_thumb": "https://live.staticflickr.com/65535/51787547429_231db29af0_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719897.bin",
+    "id_bin": "DetectiveConan_M55_10530719897",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675792880_a6494222a2_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719987_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798375_22882d30dd_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719897_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L10_530719987_English"
+        "id_bin_language": "DetectiveConan_M55_10530719897_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675591924_3b10ef5972_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719987_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798350_c4b3f34e92_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719897_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L10_530719987_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719897_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675793350_72a253a01d_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719987_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787177793_9a3e035407_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719897_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L10_530719987_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719897_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674117422_d6f63712e1_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719987_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107852_cab2359643_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719897_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L10_530719987_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719897_Spanish"
       }
     ],
     "array_tags": [
@@ -316,44 +684,44 @@
     "list_album": [
       {
         "id_album": "-1192179440",
-        "link_thumb": "https://live.staticflickr.com/65535/51675158853_a9bc89cc0f_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787547429_231db29af0_o.gif",
         "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674117702_349bbe0d52_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719988.bin",
-    "id_bin": "Detective Conan_L10_530719988",
+    "link_thumb": "https://live.staticflickr.com/65535/51787798290_2d86d2f9e5_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719898.bin",
+    "id_bin": "DetectiveConan_M55_10530719898",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675593114_72ef132a0b_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719988_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107782_cbdca4a64c_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719898_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L10_530719988_English"
+        "id_bin_language": "DetectiveConan_M55_10530719898_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674118427_7ae73f542b_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719988_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107732_b5c12fb0db_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719898_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L10_530719988_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719898_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674118662_1438ec2d9c_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719988_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787547254_b37dc6d6bf_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719898_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L10_530719988_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719898_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674923266_31389ef9fe_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719988_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787177633_1d0e4952b7_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719898_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L10_530719988_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719898_Spanish"
       }
     ],
     "array_tags": [
@@ -362,44 +730,44 @@
     "list_album": [
       {
         "id_album": "-1192179440",
-        "link_thumb": "https://live.staticflickr.com/65535/51674117702_349bbe0d52_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798290_2d86d2f9e5_o.gif",
         "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675161563_edd9a42a20_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719989.bin",
-    "id_bin": "Detective Conan_L10_530719989",
+    "link_thumb": "https://live.staticflickr.com/65535/51786107652_d7950d25d7_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719899.bin",
+    "id_bin": "DetectiveConan_M55_10530719899",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675795570_e439d2e685_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719989_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787547214_f33f8203d2_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719899_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L10_530719989_English"
+        "id_bin_language": "DetectiveConan_M55_10530719899_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675594779_9e6f83cf3c_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719989_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798155_9a449ec357_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719899_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L10_530719989_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719899_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675595019_93e191f775_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719989_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786925106_989c9953a7_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719899_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L10_530719989_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719899_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675162543_c12c4d3f2a_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719989_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787798110_6e8e9898b4_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719899_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L10_530719989_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719899_Spanish"
       }
     ],
     "array_tags": [
@@ -408,44 +776,44 @@
     "list_album": [
       {
         "id_album": "-1192179440",
-        "link_thumb": "https://live.staticflickr.com/65535/51675161563_edd9a42a20_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107652_d7950d25d7_o.gif",
         "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674120372_8294a1c453_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719990.bin",
-    "id_bin": "Detective Conan_L10_530719990",
+    "link_thumb": "https://live.staticflickr.com/65535/51787177463_c28d51c8a2_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719900.bin",
+    "id_bin": "DetectiveConan_M55_10530719900",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675595559_19da9a3506_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719990_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786925071_60fd635a5b_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719900_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L10_530719990_English"
+        "id_bin_language": "DetectiveConan_M55_10530719900_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675163093_7a6a81f0b0_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719990_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107472_df1b9595a1_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719900_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L10_530719990_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719900_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674120952_f542d126ff_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719990_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107452_83edacc6fa_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719900_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L10_530719990_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719900_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674121162_219d03c9ac_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L10_530719990_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787547054_133868cdc0_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719900_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L10_530719990_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719900_Spanish"
       }
     ],
     "array_tags": [
@@ -454,44 +822,44 @@
     "list_album": [
       {
         "id_album": "-1192179440",
-        "link_thumb": "https://live.staticflickr.com/65535/51674120372_8294a1c453_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787177463_c28d51c8a2_o.gif",
         "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675596344_26ff5b5309_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106508.bin",
-    "id_bin": "Detective Conan_L1_-1997106508",
+    "link_thumb": "https://live.staticflickr.com/65535/51786924936_01c3500b30_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719901.bin",
+    "id_bin": "DetectiveConan_M55_10530719901",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675797765_04a8df34b4_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106508_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107397_8d7cc7420c_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719901_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106508_English"
+        "id_bin_language": "DetectiveConan_M55_10530719901_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675164143_2052c40cfb_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106508_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107377_82206f34f4_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719901_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106508_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719901_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675164403_4c98ea3efc_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106508_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107357_de3785d64a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719901_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106508_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719901_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675164628_0808683724_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106508_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787797930_e768167809_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719901_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106508_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719901_Spanish"
       }
     ],
     "array_tags": [
@@ -499,45 +867,45 @@
     ],
     "list_album": [
       {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51675596344_26ff5b5309_o.gif",
-        "title": "Detective Conan_L1"
+        "id_album": "-1192179440",
+        "link_thumb": "https://live.staticflickr.com/65535/51786924936_01c3500b30_o.gif",
+        "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674122542_6b3547e01d_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106530.bin",
-    "id_bin": "Detective Conan_L1_-1997106530",
+    "link_thumb": "https://live.staticflickr.com/65535/51786107347_142f55cb95_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719986.bin",
+    "id_bin": "DetectiveConan_M55_10530719986",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674927011_87cbaed0c7_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106530_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787546949_ff6c82786f_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719986_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106530_English"
+        "id_bin_language": "DetectiveConan_M55_10530719986_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675597834_8755eabf6d_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106530_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786924891_53b8a5bd0a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719986_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106530_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719986_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675799225_895f9ca88c_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106530_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787177273_3d3f1466db_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719986_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106530_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719986_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675799455_780cb467a9_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106530_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787177258_569b908f99_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719986_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106530_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719986_Spanish"
       }
     ],
     "array_tags": [
@@ -545,45 +913,45 @@
     ],
     "list_album": [
       {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51674122542_6b3547e01d_o.gif",
-        "title": "Detective Conan_L1"
+        "id_album": "-1192179440",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107347_142f55cb95_o.gif",
+        "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674123407_29e64f8d9d_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106531.bin",
-    "id_bin": "Detective Conan_L1_-1997106531",
+    "link_thumb": "https://live.staticflickr.com/65535/51787546909_90ef29ac44_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719987.bin",
+    "id_bin": "DetectiveConan_M55_10530719987",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675166078_fb47e5ff1e_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106531_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787797880_b69fe93187_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719987_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106531_English"
+        "id_bin_language": "DetectiveConan_M55_10530719987_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674928356_4250c98d63_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106531_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787177208_c4a11feb8f_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719987_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106531_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719987_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675166608_01d0e6d55c_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106531_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786924836_f048b4f617_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719987_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106531_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719987_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674928896_fdea2bd90d_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106531_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786924826_6ab033ca8e_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719987_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106531_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719987_Spanish"
       }
     ],
     "array_tags": [
@@ -591,45 +959,45 @@
     ],
     "list_album": [
       {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51674123407_29e64f8d9d_o.gif",
-        "title": "Detective Conan_L1"
+        "id_album": "-1192179440",
+        "link_thumb": "https://live.staticflickr.com/65535/51787546909_90ef29ac44_o.gif",
+        "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675599689_6c296ede24_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106532.bin",
-    "id_bin": "Detective Conan_L1_-1997106532",
+    "link_thumb": "https://live.staticflickr.com/65535/51787177183_f28bbe8a4e_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719988.bin",
+    "id_bin": "DetectiveConan_M55_10530719988",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674929276_17dd59be6e_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106532_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787797855_8d355bc113_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719988_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106532_English"
+        "id_bin_language": "DetectiveConan_M55_10530719988_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675801250_319313ba23_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106532_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786924801_b4a47e06a7_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719988_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106532_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719988_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675600339_10da330683_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106532_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786924786_ba82e5a640_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719988_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106532_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719988_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675801715_c55bc47155_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106532_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787797805_aebef39be5_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719988_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106532_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719988_Spanish"
       }
     ],
     "array_tags": [
@@ -637,45 +1005,45 @@
     ],
     "list_album": [
       {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51675599689_6c296ede24_o.gif",
-        "title": "Detective Conan_L1"
+        "id_album": "-1192179440",
+        "link_thumb": "https://live.staticflickr.com/65535/51787177183_f28bbe8a4e_o.gif",
+        "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674930086_15f815eea9_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106533.bin",
-    "id_bin": "Detective Conan_L1_-1997106533",
+    "link_thumb": "https://live.staticflickr.com/65535/51786107162_9b011fb0a0_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719989.bin",
+    "id_bin": "DetectiveConan_M55_10530719989",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674125797_d259c274d7_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106533_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787546804_52c008bb41_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719989_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106533_English"
+        "id_bin_language": "DetectiveConan_M55_10530719989_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675168448_a288d80513_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106533_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787546799_1c5abcfcf6_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719989_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106533_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719989_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675168728_2529818195_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106533_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787177123_2400e09476_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719989_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106533_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719989_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674126612_e2e77fca31_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106533_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787546754_b77f349044_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719989_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106533_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719989_Spanish"
       }
     ],
     "array_tags": [
@@ -683,45 +1051,45 @@
     ],
     "list_album": [
       {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51674930086_15f815eea9_o.gif",
-        "title": "Detective Conan_L1"
+        "id_album": "-1192179440",
+        "link_thumb": "https://live.staticflickr.com/65535/51786107162_9b011fb0a0_o.gif",
+        "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674931491_55059c0db0_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106534.bin",
-    "id_bin": "Detective Conan_L1_-1997106534",
+    "link_thumb": "https://live.staticflickr.com/65535/51787177098_3d52496e85_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719990.bin",
+    "id_bin": "DetectiveConan_M55_10530719990",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674127217_9d14ac04d3_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106534_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787177083_da644b2ee9_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719990_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106534_English"
+        "id_bin_language": "DetectiveConan_M55_10530719990_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674931951_29d6e12ea2_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106534_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787546684_ce69b030c1_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719990_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106534_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_10530719990_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675602959_2a382fb972_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106534_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786924616_d5f297704b_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719990_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106534_Russian"
+        "id_bin_language": "DetectiveConan_M55_10530719990_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674932581_bf13fb4360_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106534_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787546669_27ae8d4442_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_10530719990_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106534_Spanish"
+        "id_bin_language": "DetectiveConan_M55_10530719990_Spanish"
       }
     ],
     "array_tags": [
@@ -729,505 +1097,45 @@
     ],
     "list_album": [
       {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51674931491_55059c0db0_o.gif",
-        "title": "Detective Conan_L1"
+        "id_album": "-1192179440",
+        "link_thumb": "https://live.staticflickr.com/65535/51787177098_3d52496e85_o.gif",
+        "title": "Detective Conan_L10"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675603469_e9544befb2_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106535.bin",
-    "id_bin": "Detective Conan_L1_-1997106535",
+    "link_thumb": "https://live.staticflickr.com/65535/51787800085_67c3b2772e_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106508.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106508",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675804675_5789dbf8a6_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106535_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787548999_0563bf4ecb_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106508_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106535_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106508_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675171098_1cb796281d_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106535_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787179348_324c023912_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106508_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106535_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106508_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675805255_5c770d325a_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106535_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787179323_e732763892_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106508_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106535_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106508_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674933956_17b04a7d43_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106535_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786926881_9b06647436_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106508_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106535_Spanish"
-      }
-    ],
-    "array_tags": [
-      "lmbstudio"
-    ],
-    "list_album": [
-      {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51675603469_e9544befb2_o.gif",
-        "title": "Detective Conan_L1"
-      }
-    ]
-  },
-  {
-    "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675604829_4f5a704103_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106536.bin",
-    "id_bin": "Detective Conan_L1_-1997106536",
-    "list_language": [
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674130117_5b4e8452f6_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106536_English.bin",
-        "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106536_English"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674935011_dc770a1101_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106536_Portuguese.bin",
-        "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106536_Portuguese"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675173133_39a8d36b6e_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106536_Russian.bin",
-        "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106536_Russian"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675606099_621cb3fbac_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106536_Spanish.bin",
-        "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106536_Spanish"
-      }
-    ],
-    "array_tags": [
-      "lmbstudio"
-    ],
-    "list_album": [
-      {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51675604829_4f5a704103_o.gif",
-        "title": "Detective Conan_L1"
-      }
-    ]
-  },
-  {
-    "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675173593_a3ae87db89_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106537.bin",
-    "id_bin": "Detective Conan_L1_-1997106537",
-    "list_language": [
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675807690_1bd6b95f03_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106537_English.bin",
-        "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106537_English"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675174028_c8c0d7bd93_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106537_Portuguese.bin",
-        "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106537_Portuguese"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674936571_6a664f28ba_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106537_Russian.bin",
-        "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106537_Russian"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674936836_4c4bb293d1_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106537_Spanish.bin",
-        "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106537_Spanish"
-      }
-    ],
-    "array_tags": [
-      "lmbstudio"
-    ],
-    "list_album": [
-      {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51675173593_a3ae87db89_o.gif",
-        "title": "Detective Conan_L1"
-      }
-    ]
-  },
-  {
-    "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675174868_24c0e6e538_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106538.bin",
-    "id_bin": "Detective Conan_L1_-1997106538",
-    "list_language": [
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675809150_bb5b0a9c43_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106538_English.bin",
-        "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106538_English"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675608194_97b0561264_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106538_Portuguese.bin",
-        "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106538_Portuguese"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675608429_6afbffee2a_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106538_Russian.bin",
-        "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106538_Russian"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674938096_2594823a85_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106538_Spanish.bin",
-        "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106538_Spanish"
-      }
-    ],
-    "array_tags": [
-      "lmbstudio"
-    ],
-    "list_album": [
-      {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51675174868_24c0e6e538_o.gif",
-        "title": "Detective Conan_L1"
-      }
-    ]
-  },
-  {
-    "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675609104_2ab2c3a0c3_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106539.bin",
-    "id_bin": "Detective Conan_L1_-1997106539",
-    "list_language": [
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674134237_c6c66a5de7_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106539_English.bin",
-        "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106539_English"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675810830_00f1c7496e_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106539_Portuguese.bin",
-        "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106539_Portuguese"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675609814_773ec5d016_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106539_Russian.bin",
-        "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106539_Russian"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675610169_c18162bebd_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106539_Spanish.bin",
-        "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106539_Spanish"
-      }
-    ],
-    "array_tags": [
-      "lmbstudio"
-    ],
-    "list_album": [
-      {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51675609104_2ab2c3a0c3_o.gif",
-        "title": "Detective Conan_L1"
-      }
-    ]
-  },
-  {
-    "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674135337_1a8a90b4c1_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106561.bin",
-    "id_bin": "Detective Conan_L1_-1997106561",
-    "list_language": [
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675610769_eee325909a_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106561_English.bin",
-        "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106561_English"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674940071_d388498fb1_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106561_Portuguese.bin",
-        "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106561_Portuguese"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675611154_559a1ec913_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106561_Russian.bin",
-        "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106561_Russian"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675178333_fe48a21d65_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106561_Spanish.bin",
-        "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106561_Spanish"
-      }
-    ],
-    "array_tags": [
-      "lmbstudio"
-    ],
-    "list_album": [
-      {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51674135337_1a8a90b4c1_o.gif",
-        "title": "Detective Conan_L1"
-      }
-    ]
-  },
-  {
-    "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675812820_9026ceb568_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106562.bin",
-    "id_bin": "Detective Conan_L1_-1997106562",
-    "list_language": [
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675813030_d889806fe1_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106562_English.bin",
-        "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106562_English"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674136932_918b851b8f_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106562_Portuguese.bin",
-        "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106562_Portuguese"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675813490_6bd36e4a05_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106562_Russian.bin",
-        "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106562_Russian"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675179688_8d57d9fa21_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106562_Spanish.bin",
-        "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106562_Spanish"
-      }
-    ],
-    "array_tags": [
-      "lmbstudio"
-    ],
-    "list_album": [
-      {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51675812820_9026ceb568_o.gif",
-        "title": "Detective Conan_L1"
-      }
-    ]
-  },
-  {
-    "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675613024_5e3c845ce6_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106563.bin",
-    "id_bin": "Detective Conan_L1_-1997106563",
-    "list_language": [
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674942441_4dc960aa18_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106563_English.bin",
-        "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106563_English"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675814680_19e5052e55_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106563_Portuguese.bin",
-        "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106563_Portuguese"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675613804_dca4988681_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106563_Russian.bin",
-        "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106563_Russian"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675815380_4929e6581d_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106563_Spanish.bin",
-        "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106563_Spanish"
-      }
-    ],
-    "array_tags": [
-      "lmbstudio"
-    ],
-    "list_album": [
-      {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51675613024_5e3c845ce6_o.gif",
-        "title": "Detective Conan_L1"
-      }
-    ]
-  },
-  {
-    "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675181453_c39ab8102c_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106564.bin",
-    "id_bin": "Detective Conan_L1_-1997106564",
-    "list_language": [
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674139532_1ed1954fd9_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106564_English.bin",
-        "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106564_English"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674139877_c0c0a40eb1_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106564_Portuguese.bin",
-        "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106564_Portuguese"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674944611_43e4343686_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106564_Russian.bin",
-        "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106564_Russian"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674140397_2328bf0ace_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106564_Spanish.bin",
-        "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106564_Spanish"
-      }
-    ],
-    "array_tags": [
-      "lmbstudio"
-    ],
-    "list_album": [
-      {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51675181453_c39ab8102c_o.gif",
-        "title": "Detective Conan_L1"
-      }
-    ]
-  },
-  {
-    "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674945041_62df32f5b0_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106565.bin",
-    "id_bin": "Detective Conan_L1_-1997106565",
-    "list_language": [
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675616074_18cd37bc4e_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106565_English.bin",
-        "name_language": "English",
-        "id_bin_language": "Detective Conan_L1_-1997106565_English"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675183358_1f99a50428_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106565_Portuguese.bin",
-        "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L1_-1997106565_Portuguese"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675616494_81b8c3b6ba_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106565_Russian.bin",
-        "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L1_-1997106565_Russian"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674141472_4c623e753f_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L1_-1997106565_Spanish.bin",
-        "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L1_-1997106565_Spanish"
-      }
-    ],
-    "array_tags": [
-      "lmbstudio"
-    ],
-    "list_album": [
-      {
-        "id_album": "-1285383392",
-        "link_thumb": "https://live.staticflickr.com/65535/51674945041_62df32f5b0_o.gif",
-        "title": "Detective Conan_L1"
-      }
-    ]
-  },
-  {
-    "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674141712_2c6bcddd6d_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106508.bin",
-    "id_bin": "Detective Conan_L2_-1997106508",
-    "list_language": [
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674946391_052bf58722_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106508_English.bin",
-        "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106508_English"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675818720_57db93e26f_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106508_Portuguese.bin",
-        "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106508_Portuguese"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674142557_cfcdbdec66_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106508_Russian.bin",
-        "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106508_Russian"
-      },
-      {
-        "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675618134_e9166946b0_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106508_Spanish.bin",
-        "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106508_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106508_Spanish"
       }
     ],
     "array_tags": [
@@ -1236,44 +1144,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51674141712_2c6bcddd6d_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787800085_67c3b2772e_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675618414_70d1b74f77_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106530.bin",
-    "id_bin": "Detective Conan_L2_-1997106530",
+    "link_thumb": "https://live.staticflickr.com/65535/51787799985_283b79c99e_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106530.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106530",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675185613_ac6c4ca748_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106530_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786926806_4a468eab19_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106530_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106530_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106530_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675618814_9cb8e02f52_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106530_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786926766_f6db80cf11_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106530_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106530_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106530_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675820535_34c46145d7_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106530_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787548779_9f1a7e9b2c_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106530_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106530_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106530_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674144137_883f5835cc_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106530_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786926726_d495bf6a54_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106530_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106530_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106530_Spanish"
       }
     ],
     "array_tags": [
@@ -1282,44 +1190,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51675618414_70d1b74f77_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787799985_283b79c99e_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675619559_fb16eb1e8b_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106531.bin",
-    "id_bin": "Detective Conan_L2_-1997106531",
+    "link_thumb": "https://live.staticflickr.com/65535/51786109287_055b65df7e_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106531.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106531",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674948946_77380c3355_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106531_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787548684_273984e13b_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106531_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106531_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106531_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675187323_296f0a84df_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106531_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787548664_b875319286_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106531_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106531_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106531_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674145282_142b247711_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106531_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787179023_985d8cb63c_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106531_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106531_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106531_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675620644_c85a6d353a_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106531_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786109142_582f1e4b5e_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106531_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106531_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106531_Spanish"
       }
     ],
     "array_tags": [
@@ -1328,44 +1236,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51675619559_fb16eb1e8b_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786109287_055b65df7e_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675822455_1b0b31a285_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106532.bin",
-    "id_bin": "Detective Conan_L2_-1997106532",
+    "link_thumb": "https://live.staticflickr.com/65535/51787178988_a46551b96b_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106532.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106532",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675621259_eb425b506f_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106532_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787799650_574ab2db99_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106532_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106532_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106532_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675188598_1c128e1311_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106532_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787548534_30bc9b8f6e_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106532_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106532_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106532_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675621834_0a1ceba469_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106532_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787799590_dac4cd364a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106532_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106532_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106532_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675622079_57efc80576_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106532_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787799545_69a77b3432_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106532_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106532_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106532_Spanish"
       }
     ],
     "array_tags": [
@@ -1374,44 +1282,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51675822455_1b0b31a285_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787178988_a46551b96b_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51674146942_07c6e548e9_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106533.bin",
-    "id_bin": "Detective Conan_L2_-1997106533",
+    "link_thumb": "https://live.staticflickr.com/65535/51786109012_1abf3f825f_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106533.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106533",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674147142_0f359c811b_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106533_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786926396_3ccfca5b2d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106533_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106533_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106533_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675824375_3ec9444d0d_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106533_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787799465_78617c8cab_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106533_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106533_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106533_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674951756_0dd312e7a8_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106533_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787178718_33edaa7ee8_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106533_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106533_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106533_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675190098_3a33e8e002_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106533_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786108902_0e1a1b013c_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106533_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106533_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106533_Spanish"
       }
     ],
     "array_tags": [
@@ -1420,44 +1328,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51674146942_07c6e548e9_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786109012_1abf3f825f_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675623319_94b8eed2b4_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106534.bin",
-    "id_bin": "Detective Conan_L2_-1997106534",
+    "link_thumb": "https://live.staticflickr.com/65535/51787799365_7667b079f0_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106534.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106534",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676579344_9fc40cd56b_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106534_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787548279_140cfe5a60_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106534_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106534_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106534_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675623764_0726b08c19_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106534_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786926211_b2b56d3537_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106534_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106534_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106534_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675623889_1e87c96684_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106534_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787548224_f51291ba9d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106534_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106534_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106534_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51674953066_5be95dd97b_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106534_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787548189_16a88b43ab_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106534_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106534_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106534_Spanish"
       }
     ],
     "array_tags": [
@@ -1466,44 +1374,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51675623319_94b8eed2b4_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787799365_7667b079f0_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675191248_bdfce928c3_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106535.bin",
-    "id_bin": "Detective Conan_L2_-1997106535",
+    "link_thumb": "https://live.staticflickr.com/65535/51787799255_e40125f698_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106535.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106535",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675826355_4773886aef_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106535_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786926121_61608cc712_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106535_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106535_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106535_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675826650_c266340c56_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106535_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787204118_a436bc2dc0_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106535_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106535_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106535_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675905366_11d98a0839_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106535_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787204088_15394e9ac9_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106535_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106535_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106535_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676579654_714db06e9f_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106535_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786134067_c0bd1de351_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106535_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106535_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106535_Spanish"
       }
     ],
     "array_tags": [
@@ -1512,44 +1420,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51675191248_bdfce928c3_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787799255_e40125f698_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676151473_fa5437033c_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106536.bin",
-    "id_bin": "Detective Conan_L2_-1997106536",
+    "link_thumb": "https://live.staticflickr.com/65535/51786134037_0737c95bd0_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106536.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106536",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675104807_3c09392675_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106536_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787824240_3938557582_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106536_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106536_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106536_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676579964_0e77614ffc_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106536_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787573384_f502f202f6_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106536_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106536_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106536_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676151883_51c1618c4a_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106536_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787203908_c878962963_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106536_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106536_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106536_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676784115_109b72f219_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106536_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787573344_c0c547699c_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106536_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106536_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106536_Spanish"
       }
     ],
     "array_tags": [
@@ -1558,44 +1466,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51676151473_fa5437033c_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786134037_0737c95bd0_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676580354_c1bbf9e3e9_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106537.bin",
-    "id_bin": "Detective Conan_L2_-1997106537",
+    "link_thumb": "https://live.staticflickr.com/65535/51787203863_5eb50facdc_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106537.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106537",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676580524_ff7a383834_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106537_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786133867_67f9c1df7e_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106537_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106537_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106537_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676580794_6164312493_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106537_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787573234_b8f1c40c08_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106537_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106537_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106537_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676580964_5256f83055_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106537_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787824085_79a66f291e_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106537_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106537_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106537_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675106087_a0623960ae_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106537_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787203758_18377686a7_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106537_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106537_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106537_Spanish"
       }
     ],
     "array_tags": [
@@ -1604,44 +1512,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51676580354_c1bbf9e3e9_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787203863_5eb50facdc_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676152823_7395d6bff1_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106538.bin",
-    "id_bin": "Detective Conan_L2_-1997106538",
+    "link_thumb": "https://live.staticflickr.com/65535/51787203748_ce554b650e_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106538.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106538",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676153018_e0b0b1aa24_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106538_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786133732_841aa75c6b_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106538_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106538_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106538_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676581579_de280c632e_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106538_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787823985_fd689400f6_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106538_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106538_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106538_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676153358_70e4c0bcd7_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106538_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787203653_69bfa350d1_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106538_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106538_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106538_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675106822_a6abf7f43f_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106538_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786133667_c260917390_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106538_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106538_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106538_Spanish"
       }
     ],
     "array_tags": [
@@ -1650,44 +1558,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51676152823_7395d6bff1_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787203748_ce554b650e_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676785935_bcbd471f95_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106539.bin",
-    "id_bin": "Detective Conan_L2_-1997106539",
+    "link_thumb": "https://live.staticflickr.com/65535/51786950631_8fe1de38ae_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106539.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106539",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676153843_cf3308d8c7_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106539_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787823915_6530acea25_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106539_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106539_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106539_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675908676_049de7e75e_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106539_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787823885_9d34b741b7_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106539_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106539_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106539_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675908881_a6b80420db_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106539_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786950566_899ce6763c_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106539_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106539_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106539_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676582684_7554ec14b8_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106539_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787823785_156645fe00_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106539_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106539_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106539_Spanish"
       }
     ],
     "array_tags": [
@@ -1696,44 +1604,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51676785935_bcbd471f95_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786950631_8fe1de38ae_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675909226_0fe660b2f6_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106561.bin",
-    "id_bin": "Detective Conan_L2_-1997106561",
+    "link_thumb": "https://live.staticflickr.com/65535/51787572924_54a7ecb55f_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106561.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106561",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675108002_a1d8321f8b_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106561_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786950451_b888e5e03e_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106561_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106561_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106561_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675909451_16b215a28c_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106561_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786950421_0b7d2cce9f_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106561_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106561_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106561_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676583294_faf8b736ae_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106561_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787823680_f9811a3c45_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106561_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106561_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106561_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676583379_51953b75e6_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106561_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787203323_be5fee0b60_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106561_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106561_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106561_Spanish"
       }
     ],
     "array_tags": [
@@ -1742,44 +1650,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51675909226_0fe660b2f6_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787572924_54a7ecb55f_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675108612_a235c3bdf1_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106562.bin",
-    "id_bin": "Detective Conan_L2_-1997106562",
+    "link_thumb": "https://live.staticflickr.com/65535/51786950326_09cebdcfbb_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106562.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106562",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676787695_eb34d5b2f3_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106562_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786133302_256de789cf_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106562_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106562_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106562_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675910176_a81cc95f4b_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106562_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786950261_5a4e016da1_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106562_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106562_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106562_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675109297_6a31dc402a_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106562_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786133247_376b305c8b_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106562_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106562_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106562_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675910496_06c7fcfa4c_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106562_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787572634_c96ff9fbd6_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106562_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106562_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106562_Spanish"
       }
     ],
     "array_tags": [
@@ -1788,44 +1696,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51675108612_a235c3bdf1_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786950326_09cebdcfbb_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676584359_33d5fae80e_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106563.bin",
-    "id_bin": "Detective Conan_L2_-1997106563",
+    "link_thumb": "https://live.staticflickr.com/65535/51786950206_272b2f3583_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106563.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106563",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675910746_8f4cdb0a9b_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106563_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786950156_eb6a6beb80_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106563_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106563_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106563_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676156368_dafabbd386_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106563_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787572544_5b639ae2d6_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106563_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106563_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106563_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676156558_0e7227e019_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106563_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786950091_aef0d56bb1_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106563_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106563_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106563_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676156743_2a9293d738_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106563_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786133092_c09b8f7034_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106563_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106563_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106563_Spanish"
       }
     ],
     "array_tags": [
@@ -1834,44 +1742,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51676584359_33d5fae80e_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786950206_272b2f3583_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676156998_605244764c_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106564.bin",
-    "id_bin": "Detective Conan_L2_-1997106564",
+    "link_thumb": "https://live.staticflickr.com/65535/51787823340_5a206d85cb_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106564.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106564",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676789385_8bce6dffd5_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106564_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787572434_7343f2a97d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106564_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106564_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106564_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676585464_21fdaa92c6_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106564_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787572394_2f38ae6fcc_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106564_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106564_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106564_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676585594_90f196393d_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106564_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787202863_425429f232_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106564_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106564_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106564_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676157918_568476af9c_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106564_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787572324_60189a16e6_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106564_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106564_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106564_Spanish"
       }
     ],
     "array_tags": [
@@ -1880,44 +1788,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51676156998_605244764c_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787823340_5a206d85cb_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675111707_e817504528_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106565.bin",
-    "id_bin": "Detective Conan_L2_-1997106565",
+    "link_thumb": "https://live.staticflickr.com/65535/51786949876_a70b811a22_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106565.bin",
+    "id_bin": "DetectiveConan_M55_2-1997106565",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675913946_df94d631de_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106565_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787823140_7b75360544_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106565_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L2_-1997106565_English"
+        "id_bin_language": "DetectiveConan_M55_2-1997106565_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676791730_da7ffef9d8_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106565_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787823095_d07fd398ea_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106565_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L2_-1997106565_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_2-1997106565_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676587959_13ffaf1d91_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106565_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787823065_3d0ea5c38d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106565_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L2_-1997106565_Russian"
+        "id_bin_language": "DetectiveConan_M55_2-1997106565_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676588134_be92dd2d9d_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L2_-1997106565_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787822985_381d3f2c8b_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_2-1997106565_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L2_-1997106565_Spanish"
+        "id_bin_language": "DetectiveConan_M55_2-1997106565_Spanish"
       }
     ],
     "array_tags": [
@@ -1926,44 +1834,44 @@
     "list_album": [
       {
         "id_album": "-1285383391",
-        "link_thumb": "https://live.staticflickr.com/65535/51675111707_e817504528_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786949876_a70b811a22_o.gif",
         "title": "Detective Conan_L2"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675113512_ac4ef9ced0_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106508.bin",
-    "id_bin": "Detective Conan_L3_-1997106508",
+    "link_thumb": "https://live.staticflickr.com/65535/51786132787_7a75da31da_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106508.bin",
+    "id_bin": "DetectiveConan_M55_3-1997106508",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675914636_e568e437ff_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106508_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786132747_0e229dd31b_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106508_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L3_-1997106508_English"
+        "id_bin_language": "DetectiveConan_M55_3-1997106508_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676588519_5cf2036123_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106508_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786949706_9f96dacda0_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106508_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L3_-1997106508_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_3-1997106508_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675914946_de97d24493_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106508_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787202588_5355d9ceba_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106508_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L3_-1997106508_Russian"
+        "id_bin_language": "DetectiveConan_M55_3-1997106508_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675114122_89db1c3458_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106508_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786949661_549424b7fc_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106508_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L3_-1997106508_Spanish"
+        "id_bin_language": "DetectiveConan_M55_3-1997106508_Spanish"
       }
     ],
     "array_tags": [
@@ -1972,44 +1880,44 @@
     "list_album": [
       {
         "id_album": "-1285383390",
-        "link_thumb": "https://live.staticflickr.com/65535/51675113512_ac4ef9ced0_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786132787_7a75da31da_o.gif",
         "title": "Detective Conan_L3"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676793055_e69a570c8a_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106530.bin",
-    "id_bin": "Detective Conan_L3_-1997106530",
+    "link_thumb": "https://live.staticflickr.com/65535/51787572054_346266084e_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106530.bin",
+    "id_bin": "DetectiveConan_M55_3-1997106530",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676160853_6a78ac0c1d_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106530_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786949591_720104887a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106530_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L3_-1997106530_English"
+        "id_bin_language": "DetectiveConan_M55_3-1997106530_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676793415_f48f886961_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106530_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787202508_bc4099c3df_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106530_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L3_-1997106530_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_3-1997106530_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675915811_9c426c09ac_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106530_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787571949_53ec7b2cbc_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106530_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L3_-1997106530_Russian"
+        "id_bin_language": "DetectiveConan_M55_3-1997106530_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675114882_756f6aae17_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106530_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787571924_c0c0aba925_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106530_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L3_-1997106530_Spanish"
+        "id_bin_language": "DetectiveConan_M55_3-1997106530_Spanish"
       }
     ],
     "array_tags": [
@@ -2018,44 +1926,44 @@
     "list_album": [
       {
         "id_album": "-1285383390",
-        "link_thumb": "https://live.staticflickr.com/65535/51676793055_e69a570c8a_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787572054_346266084e_o.gif",
         "title": "Detective Conan_L3"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676161398_2392ae549e_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106531.bin",
-    "id_bin": "Detective Conan_L3_-1997106531",
+    "link_thumb": "https://live.staticflickr.com/65535/51787202458_1967a19c89_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106531.bin",
+    "id_bin": "DetectiveConan_M55_3-1997106531",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675916311_49e848a4ec_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106531_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787202393_7c602c0ee1_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106531_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L3_-1997106531_English"
+        "id_bin_language": "DetectiveConan_M55_3-1997106531_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676161723_d5a4093379_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106531_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787571809_a84db8955a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106531_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L3_-1997106531_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_3-1997106531_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676590214_b9f02292d3_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106531_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787822545_39a6a7158a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106531_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L3_-1997106531_Russian"
+        "id_bin_language": "DetectiveConan_M55_3-1997106531_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676162153_fce76a6db6_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106531_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787822525_a2c6567cb3_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106531_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L3_-1997106531_Spanish"
+        "id_bin_language": "DetectiveConan_M55_3-1997106531_Spanish"
       }
     ],
     "array_tags": [
@@ -2064,44 +1972,44 @@
     "list_album": [
       {
         "id_album": "-1285383390",
-        "link_thumb": "https://live.staticflickr.com/65535/51676161398_2392ae549e_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787202458_1967a19c89_o.gif",
         "title": "Detective Conan_L3"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676162348_90dd6456fb_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106532.bin",
-    "id_bin": "Detective Conan_L3_-1997106532",
+    "link_thumb": "https://live.staticflickr.com/65535/51787202283_96975f09f1_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106532.bin",
+    "id_bin": "DetectiveConan_M55_3-1997106532",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676590769_82f74642c7_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106532_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787822480_1690c6c92a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106532_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L3_-1997106532_English"
+        "id_bin_language": "DetectiveConan_M55_3-1997106532_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676921937_ca1d203e7a_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106532_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786132297_c4b3bcca3d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106532_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L3_-1997106532_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_3-1997106532_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675116282_a0e8050e01_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106532_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787571624_ec02e403ba_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106532_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L3_-1997106532_Russian"
+        "id_bin_language": "DetectiveConan_M55_3-1997106532_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676162828_de60758254_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106532_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787822405_3f30a030f4_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106532_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L3_-1997106532_Spanish"
+        "id_bin_language": "DetectiveConan_M55_3-1997106532_Spanish"
       }
     ],
     "array_tags": [
@@ -2110,44 +2018,44 @@
     "list_album": [
       {
         "id_album": "-1285383390",
-        "link_thumb": "https://live.staticflickr.com/65535/51676162348_90dd6456fb_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787202283_96975f09f1_o.gif",
         "title": "Detective Conan_L3"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675116662_9f151e2a4f_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106533.bin",
-    "id_bin": "Detective Conan_L3_-1997106533",
+    "link_thumb": "https://live.staticflickr.com/65535/51786949136_6b02e55690_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106533.bin",
+    "id_bin": "DetectiveConan_M55_3-1997106533",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676795650_af05fcf12a_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106533_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787822340_b7298a6dd2_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106533_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L3_-1997106533_English"
+        "id_bin_language": "DetectiveConan_M55_3-1997106533_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676163473_2cb2b3aae5_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106533_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786132132_20d6af9d61_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106533_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L3_-1997106533_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_3-1997106533_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675918271_08f1eb13b1_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106533_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787822275_dc3fb1796d_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106533_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L3_-1997106533_Russian"
+        "id_bin_language": "DetectiveConan_M55_3-1997106533_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676163833_40af79edfc_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106533_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787571419_a62b9b8da7_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106533_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L3_-1997106533_Spanish"
+        "id_bin_language": "DetectiveConan_M55_3-1997106533_Spanish"
       }
     ],
     "array_tags": [
@@ -2156,44 +2064,44 @@
     "list_album": [
       {
         "id_album": "-1285383390",
-        "link_thumb": "https://live.staticflickr.com/65535/51675116662_9f151e2a4f_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786949136_6b02e55690_o.gif",
         "title": "Detective Conan_L3"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676592099_6c6fb5350d_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106534.bin",
-    "id_bin": "Detective Conan_L3_-1997106534",
+    "link_thumb": "https://live.staticflickr.com/65535/51786132032_e1c13abceb_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106534.bin",
+    "id_bin": "DetectiveConan_M55_3-1997106534",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676592204_a974c67edb_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106534_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787201963_0a1b39632c_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106534_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L3_-1997106534_English"
+        "id_bin_language": "DetectiveConan_M55_3-1997106534_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676592339_8e7789ff16_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106534_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786948946_d5d458925a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106534_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L3_-1997106534_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_3-1997106534_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676164418_4244701cfd_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106534_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786948901_ddfdc5a075_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106534_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L3_-1997106534_Russian"
+        "id_bin_language": "DetectiveConan_M55_3-1997106534_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676796965_017ce099cf_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106534_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786131892_7cbdf4f77e_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106534_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L3_-1997106534_Spanish"
+        "id_bin_language": "DetectiveConan_M55_3-1997106534_Spanish"
       }
     ],
     "array_tags": [
@@ -2202,44 +2110,44 @@
     "list_album": [
       {
         "id_album": "-1285383390",
-        "link_thumb": "https://live.staticflickr.com/65535/51676592099_6c6fb5350d_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786132032_e1c13abceb_o.gif",
         "title": "Detective Conan_L3"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51676797115_5a5251c230_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106535.bin",
-    "id_bin": "Detective Conan_L3_-1997106535",
+    "link_thumb": "https://live.staticflickr.com/65535/51786131867_0a9b688317_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106535.bin",
+    "id_bin": "DetectiveConan_M55_3-1997106535",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676164933_4da8da3ded_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106535_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786131802_52a47c2766_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106535_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L3_-1997106535_English"
+        "id_bin_language": "DetectiveConan_M55_3-1997106535_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676593124_c69dd09d1b_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106535_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787821965_c755cd789a_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106535_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L3_-1997106535_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_3-1997106535_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676165283_19265f752e_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106535_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787571154_4eeb3a3884_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106535_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L3_-1997106535_Russian"
+        "id_bin_language": "DetectiveConan_M55_3-1997106535_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676593404_54c43a551d_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106535_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787201768_12e1c07a22_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106535_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L3_-1997106535_Spanish"
+        "id_bin_language": "DetectiveConan_M55_3-1997106535_Spanish"
       }
     ],
     "array_tags": [
@@ -2248,44 +2156,44 @@
     "list_album": [
       {
         "id_album": "-1285383390",
-        "link_thumb": "https://live.staticflickr.com/65535/51676797115_5a5251c230_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51786131867_0a9b688317_o.gif",
         "title": "Detective Conan_L3"
       }
     ]
   },
   {
     "author": "LMB Studio",
-    "link_thumb": "https://live.staticflickr.com/65535/51675920061_d3ae62aa0c_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106536.bin",
-    "id_bin": "Detective Conan_L3_-1997106536",
+    "link_thumb": "https://live.staticflickr.com/65535/51787571069_9cd85ce3fd_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106536.bin",
+    "id_bin": "DetectiveConan_M55_3-1997106536",
     "list_language": [
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676797870_b1f15d2345_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106536_English.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787201723_c39a09b532_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106536_English.bin",
         "name_language": "English",
-        "id_bin_language": "Detective Conan_L3_-1997106536_English"
+        "id_bin_language": "DetectiveConan_M55_3-1997106536_English"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675920416_2af00cde83_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106536_Portuguese.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51786131647_c70928d4c9_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106536_Portuguese.bin",
         "name_language": "Portuguese",
-        "id_bin_language": "Detective Conan_L3_-1997106536_Portuguese"
+        "id_bin_language": "DetectiveConan_M55_3-1997106536_Portuguese"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51675920656_4695e86fa3_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106536_Russian.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787201663_d79c4baf01_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106536_Russian.bin",
         "name_language": "Russian",
-        "id_bin_language": "Detective Conan_L3_-1997106536_Russian"
+        "id_bin_language": "DetectiveConan_M55_3-1997106536_Russian"
       },
       {
         "author": "LMB Studio",
-        "link_thumb": "https://live.staticflickr.com/65535/51676166203_c4963bdb28_o.gif",
-        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/Detective Conan_L3_-1997106536_Spanish.bin",
+        "link_thumb": "https://live.staticflickr.com/65535/51787821790_8e1340719e_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106536_Spanish.bin",
         "name_language": "Spanish",
-        "id_bin_language": "Detective Conan_L3_-1997106536_Spanish"
+        "id_bin_language": "DetectiveConan_M55_3-1997106536_Spanish"
       }
     ],
     "array_tags": [
@@ -2294,7 +2202,99 @@
     "list_album": [
       {
         "id_album": "-1285383390",
-        "link_thumb": "https://live.staticflickr.com/65535/51675920061_d3ae62aa0c_o.gif",
+        "link_thumb": "https://live.staticflickr.com/65535/51787571069_9cd85ce3fd_o.gif",
+        "title": "Detective Conan_L3"
+      }
+    ]
+  },
+  {
+    "author": "LMB Studio",
+    "link_thumb": "https://live.staticflickr.com/65535/51787201563_eb168ee928_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106537.bin",
+    "id_bin": "DetectiveConan_M55_3-1997106537",
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786948461_3a17ce6664_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106537_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DetectiveConan_M55_3-1997106537_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786948441_3976f3053f_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106537_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DetectiveConan_M55_3-1997106537_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787201423_8891309948_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106537_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DetectiveConan_M55_3-1997106537_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787201378_67d60e50d2_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106537_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DetectiveConan_M55_3-1997106537_Spanish"
+      }
+    ],
+    "array_tags": [
+      "lmbstudio"
+    ],
+    "list_album": [
+      {
+        "id_album": "-1285383390",
+        "link_thumb": "https://live.staticflickr.com/65535/51787201563_eb168ee928_o.gif",
+        "title": "Detective Conan_L3"
+      }
+    ]
+  },
+  {
+    "author": "LMB Studio",
+    "link_thumb": "https://live.staticflickr.com/65535/51786131402_a23ba624aa_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106538.bin",
+    "id_bin": "DetectiveConan_M55_3-1997106538",
+    "list_language": [
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787570709_107437d593_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106538_English.bin",
+        "name_language": "English",
+        "id_bin_language": "DetectiveConan_M55_3-1997106538_English"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787201273_f4176eda30_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106538_Portuguese.bin",
+        "name_language": "Portuguese",
+        "id_bin_language": "DetectiveConan_M55_3-1997106538_Portuguese"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51786948211_ac3a8449b2_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106538_Russian.bin",
+        "name_language": "Russian",
+        "id_bin_language": "DetectiveConan_M55_3-1997106538_Russian"
+      },
+      {
+        "author": "LMB Studio",
+        "link_thumb": "https://live.staticflickr.com/65535/51787201223_d4676bc0ef_o.gif",
+        "link_bin": "https://github.com/lmbstudiocontact/mb4_40/raw/main/DetectiveConan_M55_3-1997106538_Spanish.bin",
+        "name_language": "Spanish",
+        "id_bin_language": "DetectiveConan_M55_3-1997106538_Spanish"
+      }
+    ],
+    "array_tags": [
+      "lmbstudio"
+    ],
+    "list_album": [
+      {
+        "id_album": "-1285383390",
+        "link_thumb": "https://live.staticflickr.com/65535/51786131402_a23ba624aa_o.gif",
         "title": "Detective Conan_L3"
       }
     ]
